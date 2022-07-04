@@ -1,0 +1,114 @@
+
+div{
+    background-color: rgb(228, 196, 196);
+    width: 100%;
+    height: 600px;
+    background-image: url(back.jpg);
+    
+    
+}
+.bck3{
+    background-image: url(back3.png);
+    height: 1100px;
+    width: 100%;
+}
+
+.yavru{
+    color: rgb(123, 0, 0);
+    font-size: 15px;
+    border-bottom: 1px solid black;
+    box-shadow: 1px 1px gray;
+    text-shadow: 1px 1px gray;
+    width: 10%;
+    text-align: right;
+}
+.ana{
+    color: black;
+    font-size: 55px;
+    text-align: center;
+    font-family:"Times New Roman", Times, serif;
+    text-shadow: 2px 2px rgb(224, 161, 171);
+    letter-spacing: 2px;
+    width: 800px;
+    
+}
+label{
+    font-size: 65px;
+    color: black;
+    text-shadow:3px 3px rgb(250, 255, 98) ;
+}
+
+td{
+    width:auto;
+    height: 70px;
+    font-size: 15;
+    letter-spacing: 2px;
+    line-break: auto;
+    
+}
+.contacttd{
+    height: 80px;
+    border-left: 1px solid black;
+    width: 50%;
+}
+a{
+    color: rgb(123, 0, 0);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(206, 127, 59);
+    text-decoration: none;
+}
+.mini{
+    width: 200px;
+}
+.notmini{
+    width: 400px;
+    text-align: center;
+}
+.biotable{
+    padding: 150px 150px;
+    
+}
+.who{
+    padding: 100px 100px;
+}
+.contacttable{
+    
+    width: 100%;
+    height: 400px;
+    margin: 150px 50px 50px 150px;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    
+    display: inline;
+   
+     
+}/*
+.part2{
+    
+    background-image: url(back2.png);
+}*/
+
+
+.sociallink{
+    color: rgb(34, 1, 5);
+    font-size: 20px;
+}
+
+p{
+    font-size: 15px;
+}
+.worksp{
+    text-align: center;
+    margin: 150px 0px 0px 680px;
+    font-size: 30px;
+    
+}
+.maintable{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 5px;
+    background-image: linear-gradient(to top, #f9ffd8 35%,  #dae6ff 100%);
+    width: 100%;
+}
